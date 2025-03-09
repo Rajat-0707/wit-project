@@ -95,13 +95,11 @@ button {
     cursor: pointer;
     background: none;
 }
-/* .img1 {
-    height: 30px;
+.img1 {
+    height: 40px;
     width: 40px;
-    
-    background-color: aqua;
 
-} */
+}
 .add{
     border: 1px solid none;
     background-color: green;
